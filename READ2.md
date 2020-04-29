@@ -1,19 +1,9 @@
-This is some text.
 
-music = ["jazz", "classical", "top40", "hip", "blues", "ragtime", "mellow"]
-for x in music:
-  print(x)
-  
-  # This is a comment
-  
-  [This is a footnote][foot1] type of text.
-  
-  We can also use this in another place [ATT HOME][foot1]
-  
-  
-  
-  # footnote links
-  
-    [foot1]:    https://www.att.com
-  
-  
+If you take [issue][issues] with any [issues][issues]
+I [issued][issues], grab a tissue.
+
+If you find a bug, please report an [issue][issues], or better yet,
+fix it and submit a [pull request][pulls].
+
+  [issues]:    https://github.com/grantwinney/BlogCodeSamples/issues
+  [pulls]:     https://github.com/grantwinney/BlogCodeSamples/pulls
