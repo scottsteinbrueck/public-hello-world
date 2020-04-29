@@ -1,9 +1,9 @@
 
-If you take [issue][issues] with any [issues][issues]
-I [issued][issues], grab a tissue.
+If you take [issue][att] with any [issues][att]
+I [issued][att], grab a tissue.
 
-If you find a bug, please report an [issue][issues], or better yet,
-fix it and submit a [pull request][pulls].
+If you find a bug, please report an [issue][att], or better yet,
+fix it and submit a [pull request][cnn].
 
-  [issues]:    https://github.com/grantwinney/BlogCodeSamples/issues
-  [pulls]:     https://github.com/grantwinney/BlogCodeSamples/pulls
+  [att]:    http://www.att.com
+  [cnn]:     http://www.cnn.com
